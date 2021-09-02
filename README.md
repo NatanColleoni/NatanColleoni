@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on full-stack development
 - 🌱 I’m currently learning C#/ASP.NET for web and Java for android
+- 🌱 I'm currently studying Software Engineering at Unicesumar
 - 📫 How to reach me: natancolleonifonseca@gmail.com
 
 <div>
