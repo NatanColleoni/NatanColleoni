@@ -1,25 +1,17 @@
 ### Hi there I'm Natan Colleoni 👋
 
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently working with C#/.NET for web and Angular
-- 🌱 I'm currently studying Software Engineering at Unicesumar
+- 🔭 I’m currently working on full-stack development using Angular, .NET and NodeJS.
+- 🌱 I'm currently learning Go, AWS, Cache, Kubernetes
 - 📫 How to reach me: natancolleonifonseca@gmail.com
 
 <div>
   <a href="https://github.com/natancolleoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natancolleoni&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Natan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Natan-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="right" alt="Natan-yoda" height="200" width="200" src="https://i.pinimg.com/originals/57/2a/1c/572a1cb7e19e86283f0e38fc11d26753.gif">
-</div>
+
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,angular,dotnet,azure,docker,git,&theme=dark)](https://skillicons.dev)
+
 
  ##
   
